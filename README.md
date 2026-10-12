@@ -32,3 +32,6 @@ This project was built to develop a deeper understanding of the mathematical fou
 * Loss functions and partial derivatives
 * Gradient descent and parameter optimization
 * Experiment with different optimization algorithms and learning-rate strategies.
+
+## Notes
+I have uploaded my personal notes for this project and you can access them by clicking [here](./MLR%20Notes.py)
