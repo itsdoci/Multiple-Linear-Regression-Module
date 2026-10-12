@@ -27,8 +27,8 @@ def gradient_descent(m, b, X, y, rate):
   m_gradeint = -(2/n) * ((X.T)@error)
   b_gradient = -(2/n) * error.sum()
 
-  m = m - rate*m_gradeint
-  b = b - rate*b_gradient
+  m -= rate * m_gradeint
+  b -= rate * b_gradient
 
   return m, b
 
@@ -52,7 +52,7 @@ for i in range(epochs):
           f"\nBias: {b}"
           )
     break
-  if i%100 == 0:
+  if (i % 100) == 0:
     print(f"Epochs: {i}, Loss: {current_loss:.4f}")
   prev_loss = current_loss
 
