@@ -34,4 +34,4 @@ This project was built to develop a deeper understanding of the mathematical fou
 * Experiment with different optimization algorithms and learning-rate strategies.
 
 ## Notes
-I have uploaded my personal notes for this project and you can access them by clicking [here](./MLR%20Notes.pdf)
+I have uploaded my personal notes for this project and you can access them by clicking [here](./MLR%20Notes.pdf).
